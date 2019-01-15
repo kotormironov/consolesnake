@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C7DEA68D-9BD0-4CC8-99F0-1F2882CD6C1E}</ProjectGuid>
+    <ProjectGuid>{8210EF93-9953-4529-B769-B41ACDB2BFF4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Consolesnake</RootNamespace>
     <AssemblyName>Consolesnake</AssemblyName>
